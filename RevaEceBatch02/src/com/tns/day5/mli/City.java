@@ -1,4 +1,4 @@
-package com.tns.mli;
+package com.tns.day5.mli;
 
 public class City extends State {
 	private String cityName;

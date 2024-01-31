@@ -1,4 +1,4 @@
-package com.tns.mli;
+package com.tns.day5.mli;
 
 public class State extends Country {
 	private String stateName;

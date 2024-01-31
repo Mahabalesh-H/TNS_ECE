@@ -1,4 +1,4 @@
-package com.tns.hierarical;
+package com.tns.day5.hierarical;
 
 public class RBI {
 	private int bankId;

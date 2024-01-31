@@ -1,4 +1,4 @@
-package com.tns.sli;
+package com.tns.day5.sli;
 
 public class Student extends Citizen{
 	private int rollNo;
